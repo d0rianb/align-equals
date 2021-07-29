@@ -2,6 +2,7 @@
   "name": "alignequals",
   "displayName": "AlignEquals",
   "description": "A command to align the equals in variable definitions",
+  "publisher": "dorian",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.58.0"
